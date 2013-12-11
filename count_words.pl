@@ -1,3 +1,6 @@
+# built with perl 5.18.1
+# only works with single space wordbreaks
+
 use strict;
 use warnings;
 

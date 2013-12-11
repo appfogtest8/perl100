@@ -1,3 +1,5 @@
+# built with perl 5.18.1
+
 use strict;
 use warnings;
 
